@@ -7,9 +7,9 @@ the export button on ventures drawer or export all to export all of the ventures
 
 
 Features : 
-Location search
-Fog of war overlay which is cleared by movements and pins 
-Custom pins with image description 
+-Location search
+-Fog of war overlay which is cleared by movements and pins 
+-Custom pins with image description 
 Search withing image description
 Achivements.txt 
 Artifacts.txt 
