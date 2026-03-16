@@ -1,0 +1,15 @@
+# Expedition Levels for Scout Map
+# Format:
+# level | rank | xp_to_next
+# level starts at 1.
+# xp_to_next is the XP needed to reach the next level.
+# If a level is missing, the app uses the default XP formula.
+# Lines starting with # are comments.
+#
+# Example levels:
+1 | Initiate | 120
+2 | Trailblazer | 180
+3 | Trailblazer | 260
+4 | Stormrunner | 340
+5 | Skycartographer | 420
+6 | Mythic Pathfinder | 520

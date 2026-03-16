@@ -1,0 +1,13 @@
+# Explorer Achievements File
+# Format:
+# id | name | description | type | target | xp | coins
+#
+# Types:
+# pins, distance_m, distance_km, explore_pct, scan, artifact, level, streak
+#
+# Examples:
+first_pin | First Mark | Drop your first pin | pins | 1 | 20 | 5
+distance_1km | Pathfinder | Walk 1 km total | distance_km | 1 | 40 | 10
+explore_25 | Fogbreaker | Reach 25% explored | explore_pct | 25 | 60 | 12
+streak_3 | Consistent | Maintain a 3-day streak | streak | 3 | 50 | 8
+level_5 | Rising Star | Reach level 5 | level | 5 | 80 | 15

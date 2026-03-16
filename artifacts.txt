@@ -1,0 +1,12 @@
+# Artifact Vault Rules for Scout Map
+# Format:
+# id | name | weight | description
+# weight = relative drop chance (higher = more common).
+# Lines starting with # are comments.
+#
+# Example artifacts:
+echo_prism | Echo Prism | 40 | A prism that hums when fog is nearby.
+wind_relic | Wind Relic | 25 | A relic that smells of storm air.
+star_map | Star Map | 18 | A chart that redraws itself every night.
+golden_sigil | Golden Sigil | 10 | A stamped seal of a forgotten guild.
+void_compass | Void Compass | 5 | Points to places that don't exist anymore.
