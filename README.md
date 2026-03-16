@@ -26,7 +26,7 @@ the export button on ventures drawer or export all to export all of the ventures
 - FileReader API for image uploads
 - JSON export/import for save files
 
-## made with Claude ai and Codex 5.2 ai
+## made with Claude and Codex 5.2 tool 
 
 ```text
 █████       ███      █████                                                   █████       █████ ██████████  
